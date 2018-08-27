@@ -8,23 +8,92 @@
 ## Agenda
 
 * AI
+* Navigating AI Revolution
+* Machine Learning
+* Cloud AI Services
+* Demo
+
+---
+
+## AI?
 
 ---?image=https://media.giphy.com/media/4yrXiUTCzPTeE/giphy.gif
 
-## Template Features
+@snap[east]
+@size[2em](@color[white](What's AI?))
+@snapend
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Images |
-- Background Image Scaling |
-- Custom Logo, TOC, and Footnotes |
+---
+
+## Artificial Intelligence
+
+“The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving".”
+
+@snap[south-east]
+-- Wikipedia
+@snapend
+
++++
+
+## Artificial Intelligence
+
+“Artificial Intelligence is just whatever a computer can’t do yet…”
+
+@snap[south-east]
+-- Chris Bishop, Microsoft Research
+@snapend
+
++++
+
+## AI
+
+“Artificial Intelligence is computers doing things that we would normally think of as intelligent in humans.”
+
+@snap[south-east]
+-- Rick Barazza, Microsoft DX
+@snapend
+
+---
+
+![Google's AI Assistant Make Real Phone Calls](https://www.youtube.com/embed/JvbHu_bVa_g?start=5)
+
++++
+
+![Tesla Model X, autopilot avoids a crash in The Netherlands](https://www.youtube.com/embed/FadR7ETT_1k)
+
++++
+
+![AI plays Super Mario Bros](https://www.youtube.com/embed/QVyu9oVyh9Q?start=6)
+
+---
+
+## Navigating AI Revolution
+
++++?image=assets/image/ai-nav-01.png
+
++++?image=assets/image/ai-nav-02.png
+
++++?image=assets/image/ai-nav-03.png
+
++++
+
+## AI Enablers
+
+@ol
+* New combo of Math
+* Big data
+* Massive Computation
+@olend
 
 ---
 
 ## Machine Learning
 
 ![Machine Learning like a baby](https://media.giphy.com/media/QPsnos4tcLJaU/giphy.gif)
+
+---
+
+![MarI/O - Machine Learning for Video Games](https://www.youtube.com/embed/qv6UVOQ0F44)
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
