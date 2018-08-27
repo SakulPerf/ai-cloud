@@ -91,7 +91,83 @@
 
 ![Machine Learning like a baby](https://media.giphy.com/media/QPsnos4tcLJaU/giphy.gif)
 
----
++++?image=assets/image/baby01.png
+
++++?image=assets/image/baby02.png
+
++++?image=assets/image/baby03.png
+
++++?image=assets/image/baby04.png
+
++++?image=assets/image/baby05.png
+
++++?image=assets/image/baby06.png
+
++++?image=assets/image/baby07.png
+
++++?image=assets/image/baby08.png
+
++++?image=assets/image/robot01.png
+
++++?image=assets/image/robot02.png
+
++++?image=assets/image/robot03.png
+
++++?image=assets/image/robot04.png
+
++++
+
+## Disease Classification
+
+* Interview doctors and specialists
+* Research more on text books
+* Design a decision algorithm
+* Implement the algorithm
+* Fine-tune for the best result
+
++++?image=assets/image/robot04.png
+
++++?image=assets/image/mlx01.png
+
++++?image=assets/image/mlx02.png
+
++++?image=assets/image/mlx03.png
+
++++?image=assets/image/mlx04.png
+
++++?image=assets/image/mlx05.png
+
++++?image=assets/image/mlx06.png
+
++++?image=assets/image/mlx07.png
+
++++?image=assets/image/mlx08.png
+
++++?image=assets/image/mlx09.png
+
++++?image=assets/image/mlx10.png
+
++++
+
+## Machine Learning Categories
+
+* Supervised Learning
+
+	The computer is presented with example inputs and their desired outputs
+
+* Unsupervised Learning
+
+	No labels are given to the learning algorithm
+
++++
+
+## Supervised Learning
+
+![Disease Problem as Supervised Learning](assets/image/mlx10.png)
+
++++
+
+## Unsupervised Learning
 
 ![MarI/O - Machine Learning for Video Games](https://www.youtube.com/embed/qv6UVOQ0F44)
 
@@ -114,17 +190,17 @@ var http = require("http");
 // Create the server. Function passed as parameter
 // is called on every request made.
 http.createServer(function (request, response) {
-  // Attach listener on end event.  This event is
-  // called when client sent, awaiting response.
-  request.on("end", function () {
-    // Write headers to the response.
-    // HTTP 200 status, Content-Type text/plain.
-    response.writeHead(200, {
-      'Content-Type': 'text/plain'
-    });
-    // Send data and end response.
-    response.end('Hello HTTP!');
-  });
+	// Attach listener on end event.  This event is
+	// called when client sent, awaiting response.
+	request.on("end", function () {
+		// Write headers to the response.
+		// HTTP 200 status, Content-Type text/plain.
+		response.writeHead(200, {
+			'Content-Type': 'text/plain'
+		});
+		// Send data and end response.
+		response.end('Hello HTTP!');
+	});
 
 // Listen on the 8080 port.
 }).listen(8080);
@@ -149,7 +225,7 @@ http.createServer(function (request, response) {
 ## Template Help
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
+	+ [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
 - [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
 - [Slideshow Background Images](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
 - [Background Image Scaling](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#scaling)
@@ -161,18 +237,18 @@ http.createServer(function (request, response) {
 
 <br>
 <div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
+		<i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
+		<a href="https://gitpitch.com/pro-features" class="pro-link">
+		More details here.</a>
 </div>
 <div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
+		<ul>
+				<li>Private Repos</li>
+				<li>Private URLs</li>
+				<li>Password-Protection</li>
+				<li>Image Opacity</li>
+				<li>SVG Image Support</li>
+		</ul>
 </div>
 
 ---
