@@ -101,6 +101,11 @@
 ![](assets/image/gcat02.png)
 @snapend
 
+Note:
+Summer 2012, Team of 12 people at Google use 16,000 CPUs to teach AI to recognize cat in VDO.
+Winter 2012,  Geoffrey Hinton, Alex Krizhevsky, & Ilya Sutskever use DEEP CNNs on 2 GPUs.
+
+
 +++?image=assets/image/baby01.png&opacity=0
 
 +++?image=assets/image/baby02.png&opacity=0
