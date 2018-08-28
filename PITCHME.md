@@ -69,11 +69,11 @@
 
 ## Navigating AI Revolution
 
-+++?image=assets/image/ai-nav-01.png
++++?image=assets/image/ai-nav-01.png&opacity=0
 
-+++?image=assets/image/ai-nav-02.png
++++?image=assets/image/ai-nav-02.png&opacity=0
 
-+++?image=assets/image/ai-nav-03.png
++++?image=assets/image/ai-nav-03.png&opacity=0
 
 +++
 
@@ -91,29 +91,29 @@
 
 ![Machine Learning like a baby](https://media.giphy.com/media/QPsnos4tcLJaU/giphy.gif)
 
-+++?image=assets/image/baby01.png
++++?image=assets/image/baby01.png&opacity=0
 
-+++?image=assets/image/baby02.png
++++?image=assets/image/baby02.png&opacity=0
 
-+++?image=assets/image/baby03.png
++++?image=assets/image/baby03.png&opacity=0
 
-+++?image=assets/image/baby04.png
++++?image=assets/image/baby04.png&opacity=0
 
-+++?image=assets/image/baby05.png
++++?image=assets/image/baby05.png&opacity=0
 
-+++?image=assets/image/baby06.png
++++?image=assets/image/baby06.png&opacity=0
 
-+++?image=assets/image/baby07.png
++++?image=assets/image/baby07.png&opacity=0
 
-+++?image=assets/image/baby08.png
++++?image=assets/image/baby08.png&opacity=0
 
-+++?image=assets/image/robot01.png
++++?image=assets/image/robot01.png&opacity=0
 
-+++?image=assets/image/robot02.png
++++?image=assets/image/robot02.png&opacity=0
 
-+++?image=assets/image/robot03.png
++++?image=assets/image/robot03.png&opacity=0
 
-+++?image=assets/image/robot04.png
++++?image=assets/image/robot04.png&opacity=0
 
 +++
 
@@ -125,27 +125,27 @@
 * Implement the algorithm
 * Fine-tune for the best result
 
-+++?image=assets/image/robot04.png
++++?image=assets/image/robot04.png&opacity=0
 
-+++?image=assets/image/mlx01.png
++++?image=assets/image/mlx01.png&opacity=0
 
-+++?image=assets/image/mlx02.png
++++?image=assets/image/mlx02.png&opacity=0
 
-+++?image=assets/image/mlx03.png
++++?image=assets/image/mlx03.png&opacity=0
 
-+++?image=assets/image/mlx04.png
++++?image=assets/image/mlx04.png&opacity=0
 
-+++?image=assets/image/mlx05.png
++++?image=assets/image/mlx05.png&opacity=0
 
-+++?image=assets/image/mlx06.png
++++?image=assets/image/mlx06.png&opacity=0
 
-+++?image=assets/image/mlx07.png
++++?image=assets/image/mlx07.png&opacity=0
 
-+++?image=assets/image/mlx08.png
++++?image=assets/image/mlx08.png&opacity=0
 
-+++?image=assets/image/mlx09.png
++++?image=assets/image/mlx09.png&opacity=0
 
-+++?image=assets/image/mlx10.png
++++?image=assets/image/mlx10.png&opacity=0
 
 +++
 
@@ -169,87 +169,87 @@
 
 ## Unsupervised Learning
 
-![MarI/O - Machine Learning for Video Games](https://www.youtube.com/embed/qv6UVOQ0F44)
-
----?code=sample/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
+![MarI/O - Machine Learning for Video Games](https://www.youtube.com/embed/qv6UVOQ0F44?start=2)
 
 ---
 
-@title[JavaScript Block]
+## AI on Cloud Platforms
 
-<p><span class="slide-title">JavaScript Block</span></p>
++++
 
-```javascript
-// Include http module.
-var http = require("http");
+## Cloud AI on Google Cloud
 
-// Create the server. Function passed as parameter
-// is called on every request made.
-http.createServer(function (request, response) {
-	// Attach listener on end event.  This event is
-	// called when client sent, awaiting response.
-	request.on("end", function () {
-		// Write headers to the response.
-		// HTTP 200 status, Content-Type text/plain.
-		response.writeHead(200, {
-			'Content-Type': 'text/plain'
-		});
-		// Send data and end response.
-		response.end('Hello HTTP!');
-	});
+[https://cloud.google.com/products/ai/](https://cloud.google.com/products/ai/)
 
-// Listen on the 8080 port.
-}).listen(8080);
-```
+![ML on AWS](assets/image/cloud-google.png)
 
-@[1,2](You can present code inlined within your slide markdown too.)
-@[9-17](Displayed using code-syntax highlighting just like your IDE.)
-@[19-20](Again, all of this without ever leaving your slideshow.)
++++
 
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=Scala GIST
+## Machine Learning on AWS
 
-@[23](You can even present code found within any GitHub GIST.)
-@[41-53](GIST source code is beautifully rendered on any slide.)
-@[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
+[https://aws.amazon.com/machine-learning/](https://aws.amazon.com/machine-learning/)
 
----?image=assets/image/snowscape.jpg&size=auto 80%&color=#58b9f5
+![ML on AWS](assets/image/cloud-aws.png)
 
-<!-- Sample slide background image scaling and custom color fill -->
++++
+
+## Azure AI on Microsoft Azure
+
+[https://azure.com/ai](https://azure.com/ai)
+
+![ML on AWS](assets/image/cloud-azure.png)
+
++++
+
+## IBM Watson on IBM Cloud
+
+[https://www.ibm.com/cloud/ai](https://www.ibm.com/cloud/ai)
+
+![ML on AWS](assets/image/cloud-watson.png)
 
 ---
 
-## Template Help
+## Comparing Machine Learning as a Service:
 
-- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-	+ [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Images](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Background Image Scaling](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#scaling)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
+### Amazon, Microsoft Azure, Google Cloud AI, IBM Watson
+
+@snap[south-east]
+From [AltexSoft Data Science Blog Post](https://www.altexsoft.com/blog/datascience/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai-ibm-watson/)
+@snapend
+
++++?image=assets/image/cloud-compare-01.png&size=auto 90%
+
++++?image=assets/image/cloud-compare-02.png&size=auto 90%
+
++++?image=assets/image/cloud-compare-03.png&size=auto 90%
+
++++?image=assets/image/cloud-compare-04.png&size=auto 90%
+
++++
+
+## Various machine learning solutions
+
+![ML Solutions](assets/image/mlsolutions.png)
+
++++
+
+## ML as a Service
+
+* Beaware executives who are going to buy tools solving tasks at the higher levels.
+* However, it seems that we’ll see far more companies turning to ML-as-a-service to avoid expensive talent acquisitions and still possess versatile data tools.
+* The right move is to articulate what you plan to achieve with machine learning as early as possible.
 
 ---
 
-## GitPitch Pro Features
+## Demo
 
-<br>
-<div class="left">
-		<i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-		<a href="https://gitpitch.com/pro-features" class="pro-link">
-		More details here.</a>
-</div>
-<div class="right">
-		<ul>
-				<li>Private Repos</li>
-				<li>Private URLs</li>
-				<li>Password-Protection</li>
-				<li>Image Opacity</li>
-				<li>SVG Image Support</li>
-		</ul>
-</div>
+### Cognitive Services
+
++++
+
+## Demo
+
+### Machine Learning Studio
 
 ---
 
