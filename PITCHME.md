@@ -91,6 +91,16 @@
 
 ![Machine Learning like a baby](https://media.giphy.com/media/QPsnos4tcLJaU/giphy.gif)
 
++++
+
+@snap[north-west]
+![](assets/image/gcat01.png)
+@snapend
+
+@snap[south-east]
+![](assets/image/gcat02.png)
+@snapend
+
 +++?image=assets/image/baby01.png&opacity=0
 
 +++?image=assets/image/baby02.png&opacity=0
