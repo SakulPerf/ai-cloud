@@ -1,4 +1,3 @@
-@title[Introduction]
 # AI
 
 ### made easy on Cloud Platform
@@ -18,12 +17,14 @@
 ## AI?
 
 ---?image=https://media.giphy.com/media/4yrXiUTCzPTeE/giphy.gif
+@title[What's AI]
 
 @snap[east]
 @size[2em](@color[white](What's AI?))
 @snapend
 
 ---
+@title[AI definition 1]
 
 ## Artificial Intelligence
 
@@ -34,6 +35,7 @@
 @snapend
 
 +++
+@title[AI definition 2]
 
 ## Artificial Intelligence
 
@@ -44,6 +46,7 @@
 @snapend
 
 +++
+@title[AI definition 3]
 
 ## AI
 
@@ -54,14 +57,17 @@
 @snapend
 
 ---
+@title[AI example 1]
 
 ![Google's AI Assistant Make Real Phone Calls](https://www.youtube.com/embed/JvbHu_bVa_g?start=5)
 
 +++
+@title[AI example 2]
 
 ![Tesla Model X, autopilot avoids a crash in The Netherlands](https://www.youtube.com/embed/FadR7ETT_1k)
 
 +++
+@title[AI example 3]
 
 ![AI plays Super Mario Bros](https://www.youtube.com/embed/QVyu9oVyh9Q?start=6)
 
@@ -94,11 +100,11 @@
 +++
 
 @snap[north-west]
-![](assets/image/gcat01.png)
+![Google Cat1](assets/image/gcat01.png)
 @snapend
 
 @snap[south-east]
-![](assets/image/gcat02.png)
+![Google Cat2](assets/image/gcat02.png)
 @snapend
 
 Note:
@@ -258,13 +264,17 @@ From [AltexSoft Data Science Blog Post](https://www.altexsoft.com/blog/datascien
 
 ## Demo
 
-### Cognitive Services
+### Machine Learning Studio
+
++++
+
+![Digits](assets/image/digitsdata.png)
 
 +++
 
 ## Demo
 
-### Machine Learning Studio
+### Cognitive Services
 
 ---
 
