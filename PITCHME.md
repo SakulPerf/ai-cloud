@@ -28,7 +28,7 @@
 
 ## Artificial Intelligence
 
-“The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving".”
+The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving".
 
 @snap[south-east]
 -- Wikipedia
@@ -275,6 +275,13 @@ From [AltexSoft Data Science Blog Post](https://www.altexsoft.com/blog/datascien
 ## Demo
 
 ### Cognitive Services
+
+---
+
+“I spent last semester building a regression model in Python, and I just did the same thing in 10 minutes with Azure ML”
+
+Note:
+This quote came from a graduate student who attended this class at UMass. He had already accepted at offer to go to work for Microsoft post-graduation. 
 
 ---
 
