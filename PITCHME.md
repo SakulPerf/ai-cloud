@@ -2,6 +2,9 @@
 
 ### made easy on Cloud Platform
 
+Teerachai Laothong<br />
+Sakul Jaruthanaset
+
 ---
 
 ## Agenda
