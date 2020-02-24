@@ -62,7 +62,7 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 ---
 @title[AI example 1]
 
-![Google's AI Assistant Make Real Phone Calls](https://www.youtube.com/embed/JvbHu_bVa_g?start=5)
+![Google Assistant v.s. Cortana v.s. Siri](https://www.youtube.com/embed/GcFjxj5OBLM?start=100)
 
 +++
 @title[AI example 2]
