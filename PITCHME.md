@@ -88,8 +88,8 @@ Winter 2012,  Geoffrey Hinton, Alex Krizhevsky, & Ilya Sutskever use DEEP CNNs o
 
 ## AI Enablers
 
-* New combo of Math
 * Big data
+* New combo of Math
 * Massive Computation
 
 ---
@@ -121,6 +121,14 @@ Winter 2012,  Geoffrey Hinton, Alex Krizhevsky, & Ilya Sutskever use DEEP CNNs o
 
 ![ML on AWS](assets/image/cloud-watson.png)
 
++++
+
+## Microsoft Azure
+
+[https://azure.com/ai](https://azure.com/ai)
+
+![ML on AWS](assets/image/cloud-azure.png)
+
 ---
 
 ## Comparing Machine Learning as a Service:
@@ -141,12 +149,6 @@ From [AltexSoft Data Science Blog Post](https://www.altexsoft.com/blog/datascien
 
 +++
 
-## Various machine learning solutions
-
-![ML Solutions](assets/image/mlsolutions.png)
-
-+++
-
 ## ML as a Service
 
 * Beaware executives who are going to buy tools solving tasks at the higher levels.
@@ -162,11 +164,9 @@ This quote came from a graduate student who attended this class at UMass. He had
 
 ---
 
-## Microsoft Azure
+## Various machine learning solutions
 
-[https://azure.com/ai](https://azure.com/ai)
-
-![ML on AWS](assets/image/cloud-azure.png)
+![ML Solutions](assets/image/mlsolutions.png)
 
 +++
 
