@@ -62,6 +62,8 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 
 ![OpenAI Dota](https://www.youtube.com/embed/eaBYhLttETw?start=45)
 
+1 day = 180 human years
+
 ---
 
 ## Navigating AI Revolution
