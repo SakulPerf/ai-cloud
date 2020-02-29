@@ -147,7 +147,7 @@ From [AltexSoft Data Science Blog Post](https://www.altexsoft.com/blog/datascien
 
 +++?image=assets/image/cloud-compare-04.png&size=auto 90%
 
-+++
+---
 
 ## ML as a Service
 
