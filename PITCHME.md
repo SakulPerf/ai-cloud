@@ -1,11 +1,11 @@
 # AI
 
-### On Cloud Platforms
+## On Cloud Platforms
 
 Teerachai Laothong<br />
 Sakul Jaruthanaset
 
-`https://bit.ly/2vqa532`
+**https://bit.ly/2vqa532**
 
 ---?image=https://media.giphy.com/media/4yrXiUTCzPTeE/giphy.gif
 @title[What's AI]
