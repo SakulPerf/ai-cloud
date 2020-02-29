@@ -3,7 +3,8 @@
 ### On Cloud Platforms
 
 Teerachai Laothong<br />
-Sakul Jaruthanaset
+Sakul Jaruthanaset<br />
+https://bit.ly/2Z1uB4m
 
 ---?image=https://media.giphy.com/media/4yrXiUTCzPTeE/giphy.gif
 @title[What's AI]
