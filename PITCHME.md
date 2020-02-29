@@ -39,21 +39,26 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 
 ## AI
 
-“Artificial Intelligence is computers doing things that we would normally think of as intelligent in `humans`.”
+“Artificial Intelligence is computers doing things that we would normally think of as intelligent in **humans**.”
 
 @snap[south-east]
 -- Rick Barazza, Microsoft DX
 @snapend
 
 +++
-@title[AI example 2]
+@title[AI example 1]
 
 ![Tesla Model X, autopilot avoids a crash in The Netherlands](https://www.youtube.com/embed/FadR7ETT_1k)
 
 +++
-@title[AI example 3]
+@title[AI example 2]
 
 ![AI plays Super Mario Bros](https://www.youtube.com/embed/QVyu9oVyh9Q?start=6)
+
++++
+@title[AI example 3]
+
+![OpenAI Dota](https://youtu.be/eaBYhLttETw?t=45)
 
 ---
 
