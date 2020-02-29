@@ -1,54 +1,11 @@
 # AI
 
-### made easy on Cloud Platform
+### On Cloud Platform
 
 Teerachai Laothong<br />
 Sakul Jaruthanaset
 
 ---
-
-## Agenda
-
-* AI
-* Navigating AI Revolution
-* Machine Learning
-* Cloud AI Services
-* Demo
-
----
-
-## AI?
-
----?image=https://media.giphy.com/media/4yrXiUTCzPTeE/giphy.gif
-@title[What's AI]
-
-@snap[east]
-@size[2em](@color[white](What's AI?))
-@snapend
-
----
-@title[AI definition 1]
-
-## Artificial Intelligence
-
-The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving".
-
-@snap[south-east]
--- Wikipedia
-@snapend
-
-+++
-@title[AI definition 2]
-
-## Artificial Intelligence
-
-“Artificial Intelligence is just whatever a computer can’t do yet…”
-
-@snap[south-east]
--- Chris Bishop, Microsoft Research
-@snapend
-
-+++
 @title[AI definition 3]
 
 ## AI
@@ -58,11 +15,6 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 @snap[south-east]
 -- Rick Barazza, Microsoft DX
 @snapend
-
----
-@title[AI example 1]
-
-![Google Assistant v.s. Cortana v.s. Siri](https://www.youtube.com/embed/GcFjxj5OBLM?start=100)
 
 +++
 @title[AI example 2]
@@ -76,16 +28,6 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 
 ---
 
-## Navigating AI Revolution
-
-+++?image=assets/image/ai-nav-01.png&opacity=0
-
-+++?image=assets/image/ai-nav-02.png&opacity=0
-
-+++?image=assets/image/ai-nav-03.png&opacity=0
-
-+++
-
 ## AI Enablers
 
 @ol
@@ -93,107 +35,6 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 * Big data
 * Massive Computation
 @olend
-
----
-
-## Machine Learning
-
-![Machine Learning like a baby](https://media.giphy.com/media/QPsnos4tcLJaU/giphy.gif)
-
-+++
-
-@snap[north-west]
-![Google Cat1](assets/image/gcat01.png)
-@snapend
-
-@snap[south-east]
-![Google Cat2](assets/image/gcat02.png)
-@snapend
-
-Note:
-Summer 2012, Team of 12 people at Google use 16,000 CPUs to teach AI to recognize cat in VDO.
-Winter 2012,  Geoffrey Hinton, Alex Krizhevsky, & Ilya Sutskever use DEEP CNNs on 2 GPUs.
-
-
-+++?image=assets/image/baby01.png&opacity=0
-
-+++?image=assets/image/baby02.png&opacity=0
-
-+++?image=assets/image/baby03.png&opacity=0
-
-+++?image=assets/image/baby04.png&opacity=0
-
-+++?image=assets/image/baby05.png&opacity=0
-
-+++?image=assets/image/baby06.png&opacity=0
-
-+++?image=assets/image/baby07.png&opacity=0
-
-+++?image=assets/image/baby08.png&opacity=0
-
-+++?image=assets/image/robot01.png&opacity=0
-
-+++?image=assets/image/robot02.png&opacity=0
-
-+++?image=assets/image/robot03.png&opacity=0
-
-+++?image=assets/image/robot04.png&opacity=0
-
-+++
-
-## Disease Classification
-
-* Interview doctors and specialists
-* Research more on text books
-* Design a decision algorithm
-* Implement the algorithm
-* Fine-tune for the best result
-
-+++?image=assets/image/robot04.png&opacity=0
-
-+++?image=assets/image/mlx01.png&opacity=0
-
-+++?image=assets/image/mlx02.png&opacity=0
-
-+++?image=assets/image/mlx03.png&opacity=0
-
-+++?image=assets/image/mlx04.png&opacity=0
-
-+++?image=assets/image/mlx05.png&opacity=0
-
-+++?image=assets/image/mlx06.png&opacity=0
-
-+++?image=assets/image/mlx07.png&opacity=0
-
-+++?image=assets/image/mlx08.png&opacity=0
-
-+++?image=assets/image/mlx09.png&opacity=0
-
-+++?image=assets/image/mlx10.png&opacity=0
-
-+++
-
-## Machine Learning Categories
-
-* Supervised Learning
-
-	The computer is presented with example inputs and their desired outputs
-
-* Unsupervised Learning
-
-	No labels are given to the learning algorithm
-
-+++
-
-## Supervised Learning
-
-![Disease Problem as Supervised Learning](assets/image/mlx10.png)
-
-+++
-
-## Unsupervised Learning
-
-![MarI/O - Machine Learning for Video Games](https://www.youtube.com/embed/qv6UVOQ0F44?start=2)
 
 ---
 
@@ -217,19 +58,19 @@ Winter 2012,  Geoffrey Hinton, Alex Krizhevsky, & Ilya Sutskever use DEEP CNNs o
 
 +++
 
-## Azure AI on Microsoft Azure
-
-[https://azure.com/ai](https://azure.com/ai)
-
-![ML on AWS](assets/image/cloud-azure.png)
-
-+++
-
 ## IBM Watson on IBM Cloud
 
 [https://www.ibm.com/cloud/ai](https://www.ibm.com/cloud/ai)
 
 ![ML on AWS](assets/image/cloud-watson.png)
+
++++
+
+## Azure AI on Microsoft Azure
+
+[https://azure.com/ai](https://azure.com/ai)
+
+![ML on AWS](assets/image/cloud-azure.png)
 
 ---
 
