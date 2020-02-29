@@ -172,6 +172,9 @@ This quote came from a graduate student who attended this class at UMass. He had
 
 ## Demo
 
+![digital](assets/image/logo.png)
+![saladpuk](assets/image/saladpakLogo-03.png)
+
 ---
 
 ### Questions?
