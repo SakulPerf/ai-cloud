@@ -3,8 +3,7 @@
 ### On Cloud Platforms
 
 Teerachai Laothong<br />
-Sakul Jaruthanaset<br /><br />
-https://bit.ly/2Z1uB4m
+Sakul Jaruthanaset
 
 ---?image=https://media.giphy.com/media/4yrXiUTCzPTeE/giphy.gif
 @title[What's AI]
@@ -172,6 +171,8 @@ This quote came from a graduate student who attended this class at UMass. He had
 +++
 
 ## Demo
+
+https://bit.ly/2Z1uB4m
 
 ![digital](assets/image/combine_logo.png)
 
