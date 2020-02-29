@@ -172,7 +172,7 @@ This quote came from a graduate student who attended this class at UMass. He had
 
 ## Demo
 
-![digital](assets/image/logo.png)
+![digital](assets/image/combine_logo.png)
 
 ---
 
