@@ -39,7 +39,7 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 
 ## AI
 
-“Artificial Intelligence is computers doing things that we would normally think of as intelligent in humans.”
+“Artificial Intelligence is computers doing things that we would normally think of as intelligent in `humans`.”
 
 @snap[south-east]
 -- Rick Barazza, Microsoft DX
@@ -57,13 +57,35 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 
 ---
 
+## Navigating AI Revolution
+
++++?image=assets/image/ai-nav-01.png&opacity=0
+
++++?image=assets/image/ai-nav-02.png&opacity=0
+
++++?image=assets/image/ai-nav-03.png&opacity=0
+
++++
+
 ## AI Enablers
 
-@ol
 * New combo of Math
 * Big data
 * Massive Computation
-@olend
+
++++
+
+@snap[north-west]
+![Google Cat1](assets/image/gcat01.png)
+@snapend
+
+@snap[south-east]
+![Google Cat2](assets/image/gcat02.png)
+@snapend
+
+Note:
+Summer 2012, Team of 12 people at Google use 16,000 CPUs to teach AI to recognize cat in VDO.
+Winter 2012,  Geoffrey Hinton, Alex Krizhevsky, & Ilya Sutskever use DEEP CNNs on 2 GPUs.
 
 ---
 
@@ -71,7 +93,7 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 
 +++
 
-## Cloud AI on Google Cloud
+## Google Cloud
 
 [https://cloud.google.com/products/ai/](https://cloud.google.com/products/ai/)
 
@@ -79,7 +101,7 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 
 +++
 
-## Machine Learning on AWS
+## AWS
 
 [https://aws.amazon.com/machine-learning/](https://aws.amazon.com/machine-learning/)
 
@@ -87,7 +109,7 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 
 +++
 
-## IBM Watson on IBM Cloud
+## IBM Watson
 
 [https://www.ibm.com/cloud/ai](https://www.ibm.com/cloud/ai)
 
@@ -95,7 +117,7 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 
 +++
 
-## Azure AI on Microsoft Azure
+## Microsoft Azure
 
 [https://azure.com/ai](https://azure.com/ai)
 
@@ -135,26 +157,14 @@ From [AltexSoft Data Science Blog Post](https://www.altexsoft.com/blog/datascien
 
 ---
 
-## Demo
-
-### Machine Learning Studio
-
-+++
-
-![Digits](assets/image/digitsdata.png)
-
-+++
-
-## Demo
-
-### Cognitive Services
-
----
-
 “I spent last semester building a regression model in Python, and I just did the same thing in 10 minutes with Azure ML”
 
 Note:
 This quote came from a graduate student who attended this class at UMass. He had already accepted at offer to go to work for Microsoft post-graduation. 
+
+---
+
+## Demo
 
 ---
 
