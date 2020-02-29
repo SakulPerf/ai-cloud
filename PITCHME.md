@@ -58,7 +58,7 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 +++
 @title[AI example 3]
 
-![OpenAI Dota](https://youtu.be/embed/eaBYhLttETw?t=45)
+![OpenAI Dota](https://www.youtube.com/embed/eaBYhLttETw?start=45)
 
 ---
 
