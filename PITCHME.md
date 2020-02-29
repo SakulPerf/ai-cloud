@@ -3,7 +3,7 @@
 ### On Cloud Platforms
 
 Teerachai Laothong<br />
-Sakul Jaruthanaset<br />
+Sakul Jaruthanaset<br /><br />
 https://bit.ly/2Z1uB4m
 
 ---?image=https://media.giphy.com/media/4yrXiUTCzPTeE/giphy.gif
