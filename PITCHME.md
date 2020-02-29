@@ -1,6 +1,6 @@
 # AI
 
-### On Cloud Platform
+### On Cloud Platforms
 
 Teerachai Laothong<br />
 Sakul Jaruthanaset
@@ -121,14 +121,6 @@ Winter 2012,  Geoffrey Hinton, Alex Krizhevsky, & Ilya Sutskever use DEEP CNNs o
 
 ![ML on AWS](assets/image/cloud-watson.png)
 
-+++
-
-## Microsoft Azure
-
-[https://azure.com/ai](https://azure.com/ai)
-
-![ML on AWS](assets/image/cloud-azure.png)
-
 ---
 
 ## Comparing Machine Learning as a Service:
@@ -169,6 +161,14 @@ Note:
 This quote came from a graduate student who attended this class at UMass. He had already accepted at offer to go to work for Microsoft post-graduation. 
 
 ---
+
+## Microsoft Azure
+
+[https://azure.com/ai](https://azure.com/ai)
+
+![ML on AWS](assets/image/cloud-azure.png)
+
++++
 
 ## Demo
 
