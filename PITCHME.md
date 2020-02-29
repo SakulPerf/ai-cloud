@@ -5,7 +5,36 @@
 Teerachai Laothong<br />
 Sakul Jaruthanaset
 
+---?image=https://media.giphy.com/media/4yrXiUTCzPTeE/giphy.gif
+@title[What's AI]
+
+@snap[east]
+@size[2em](@color[white](What's AI?))
+@snapend
+
 ---
+@title[AI definition 1]
+
+## Artificial Intelligence
+
+The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving".
+
+@snap[south-east]
+-- Wikipedia
+@snapend
+
++++
+@title[AI definition 2]
+
+## Artificial Intelligence
+
+“Artificial Intelligence is just whatever a computer can’t do yet…”
+
+@snap[south-east]
+-- Chris Bishop, Microsoft Research
+@snapend
+
++++
 @title[AI definition 3]
 
 ## AI
