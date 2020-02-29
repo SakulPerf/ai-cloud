@@ -72,14 +72,6 @@ The term "`Artificial Intelligence (AI)`" is applied when a machine mimics "cogn
 
 +++
 
-## AI Enablers
-
-* New combo of Math
-* Big data
-* Massive Computation
-
-+++
-
 @snap[north-west]
 ![Google Cat1](assets/image/gcat01.png)
 @snapend
@@ -92,9 +84,18 @@ Note:
 Summer 2012, Team of 12 people at Google use 16,000 CPUs to teach AI to recognize cat in VDO.
 Winter 2012,  Geoffrey Hinton, Alex Krizhevsky, & Ilya Sutskever use DEEP CNNs on 2 GPUs.
 
++++
+
+## AI Enablers
+
+* New combo of Math
+* Big data
+* Massive Computation
+
 ---
 
-## AI on Cloud Platforms
+# AI
+## on Cloud Platforms
 
 +++
 
